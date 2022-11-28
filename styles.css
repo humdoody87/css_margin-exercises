@@ -1,0 +1,55 @@
+.div1 {
+
+    display: block;
+    border: 5px solid blue;
+    padding: 32px;
+    margin: 12px;
+    background-color: pink;
+}
+
+.div2 {
+
+    display: block;
+    background-color: lightblue;
+    border: 1px solid red;
+    margin bottom: 48px;
+}
+
+.div3 {
+
+    display: block;
+    background-color: orange;
+    padding: 32px;
+    margin left: 200px;
+    border: 1px solid red;
+    margin top: 48px;
+}
+
+body {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .one {
+    background: pink;
+    border: 3px solid blue;
+    /* CHANGE ME */
+    padding: 32px;
+    margin: 12px;
+  }
+  
+  .two {
+    background: lightblue;
+    border: 3px solid purple;
+    /* CHANGE ME */
+    margin-bottom: 48px;
+  }
+  
+  .three {
+    background: peachpuff;
+    border: 3px solid brown;
+    width: 200px;
+    /* CHANGE ME */
+    padding: 32px;
+    margin-left: auto;
+  }
